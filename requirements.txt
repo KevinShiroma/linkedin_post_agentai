@@ -1,0 +1,26 @@
+# Utilizado para procurar notícias na web
+tavily-python
+
+# CrewAI: Framework para criação de agentes autônomos colaborativos, com foco em tarefas complexas e coordenação de múltiplos agentes.
+crewai
+
+# crewai_tools: Conjunto de ferramentas auxiliares para potencializar os agentes do CrewAI, como acesso à web, leitura de arquivos, etc.
+crewai_tools
+
+# langchain_community: Coleção de integrações e contribuições da comunidade para o LangChain, permitindo conexão com diferentes LLMs, APIs e bancos de dados.
+langchain_community
+
+# ipykernel: Permite que kernels (núcleos de execução) rodem em notebooks Jupyter, facilitando a execução de código interativo em Python.
+ipykernel
+
+# python-dotenv: Carrega variáveis de ambiente de um arquivo `.env`, útil para manter senhas e configurações fora do código.
+python-dotenv  
+
+# jupyter: Interface web para notebooks interativos, muito utilizada para análise de dados, ciência de dados e aprendizado de máquina.
+jupyter
+
+# pdfkit: Converte arquivos HTML em PDFs usando o motor wkhtmltopdf, útil para geração de relatórios ou exportações.
+pdfkit
+
+# markdown: Permite converter e manipular texto em Markdown dentro de aplicações Python.
+markdown
