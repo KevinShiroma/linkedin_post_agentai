@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Crie um arquivo .env na raiz do projeto e adicione sua chave da API do Tavily e da OpenAI
 ```bash
-TAVILY_API_KEY=sua_chave_api <br>
+TAVILY_API_KEY=sua_chave_api
 OPENAI_API_KEY=sua_chave_api
 ```
 
